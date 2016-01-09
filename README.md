@@ -102,14 +102,25 @@ Tagged date                              : UTC 2016-01-09 20:23:20
 tina@violetina ~ $ ./VIAA/Scripts/Ttranscodeforlwks.sh -T 576
 
 Give me some filenames or a directory, no spaces in names allowed!: /home/tina/examplevids/
+
 Remove spaces with _ ? y/n :y
-full path to dir with files to transcode:/tmp       
+
+full path to dir with files to transcode:/tmp
+
 Starting transcode of /home/tina/examplevids/test3.mp4, hold your horses and wait ....
+
 Transcode of /home/tina/examplevids/test3.mp4 Complete! and available in /tmp
+
 Transcode took: 48 seconds
+
 Starting transcode of /home/tina/examplevids/test2.mp4, hold your horses and wait ....
+
 Transcode of /home/tina/examplevids/test2.mp4 Complete! and available in /tmp
+
 Transcode took: 43 seconds
+
 Starting transcode of /home/tina/examplevids/6t0gt5hq7j.mp4, hold your horses and wait ....
+
 Transcode of /home/tina/examplevids/6t0gt5hq7j.mp4 Complete! and available in /tmp
+
 Transcode took: 108 seconds
